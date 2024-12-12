@@ -1,1 +1,1 @@
-![](https://github.com/teooko/computer.gif)
+![](https://raw.githubusercontent.com/teooko/teooko/refs/heads/main/computer.gif)
